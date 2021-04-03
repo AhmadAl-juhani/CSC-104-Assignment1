@@ -15,7 +15,7 @@ print(scare)
 '''
 first_variable = 3
 second_variable = 867
-third_variable = 'first_variable '+ 'second_variable'
+third_variable = first_variable '+ 'second_variable
 print(first_variable, " ",second_variable, " " ,third_variable)
 '''
 4. divide 12 by the decimal .5 and assign the result to the variable outcome and print the variable
